@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on LiteGapps - Custom Google Apps Android</title>
+    <link>http://localhost:1313/doc/</link>
+    <description>Recent content in Docs on LiteGapps - Custom Google Apps Android</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/doc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Addon/Package</title>
+      <link>http://localhost:1313/doc/package.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/package.html</guid>
+      <description>Install Package Online 1. Download and install Litegapps Controller&#xA;2. Open terminal/termux&#xA;3. su&#xA;4. litegapps&#xA;5. select litegapps menu&#xA;6. select Install Package&#xA;7. Select list package&#xA;8. Downloading process&#xA;9. Install Done 7. done Install Package Ofline 1. Download package ZIP click here&#xA;2. Move package ZIP to /sdcard/Android/litegapps/packages/(here)&#xA;3. open terminal/termux&#xA;4. su&#xA;5. litegapps&#xA;6. Select Litegapps Menu&#xA;7. Select Install Package ZIP&#xA;8. Process Install package</description>
+    </item>
+    <item>
+      <title>Config</title>
+      <link>http://localhost:1313/doc/config.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/config.html</guid>
+      <description>We provide configuration to regulate which packages the user will install and can activate or deactivate features in LiteGApps.&#xA;Download Click here&#xA;Path move the configuration file litegapps.config to /sdcard/litegapps.config&#xA;or if your partition cannot be read, you can also place it in:&#xA;/data/litegapps.config&#xA;/data/media/0/litegapps.config&#xA;/dev/litegapps.config&#xA;/system/litegapps.config&#xA;How To use Edit the configuration file using a text editor.&#xA;Enable name package=true&#xA;Example GoogleServiceFramework=true&#xA;Disable name package=false&#xA;Example GoogleServiceFramework=false</description>
+    </item>
+    <item>
+      <title>Fix Contact Not Sync</title>
+      <link>http://localhost:1313/doc/fix_contact_not_sync.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/fix_contact_not_sync.html</guid>
+      <description>Version [MAGISK] or [AUTO] converted into magisk, making Litegapps not working fully.this causes contact sync sometimes not working&#xA;One &#34;solution is you have to install the litegapps version[RECOVERY] it will work fully.&#xA;but there is an alternative way to solve this problem&#xA;Sync with google contact 1.make sure you give all permissions to google play services (GMS) 2. First you have to download and install Google Contact : Google Play Store 3.</description>
+    </item>
+    <item>
+      <title>Fix Google Acount Not Sign In (WhatsApps)</title>
+      <link>http://localhost:1313/doc/fix_whatsapp_google_drive_backup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/fix_whatsapp_google_drive_backup.html</guid>
+      <description>Version [MAGISK] or [AUTO] converted into magisk, making Litegapps not working fully.This causes backup/restore not working (always login to google account&#xA;One &#34;solution is you have to install the litegapps version[RECOVERY] it will work fully.</description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/doc/installation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/installation.html</guid>
+      <description>This page contains all the instructions for installing LiteGapps in various modes, make sure you follow the steps correctly.&#xA;Install 1. MAGISK Module Only [MAGISK] Even though this is only [MAGISK] mode, you can install it anywhere, for example via: Magisk Manager, TWRP, Orangefox and others as long as Magisk and its components have been installed.&#xA;Device A Only Reboot recovery Install rom Install Recovery Install magisk.zip format data/wipe (if necessary) Reboot system Install magisk.</description>
+    </item>
+    <item>
+      <title>LiteGapps Controller Documentation</title>
+      <link>http://localhost:1313/doc/litegapps_controller.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/litegapps_controller.html</guid>
+      <description>LiteGapps Controller is an additional feature of LiteGapps and LiteGapps++ which has many features that can be used by users. Users can activate features such as Boost, Battery Saver, Gms Dose, GPU/CPU Tweaks, Download/Install Package and of course many other features that can be used. use.&#xA;Download Install LiteGapps uses the [AUTO] installation method you can see the System Installation documentation here&#xA;How To Use Open terminal (termux recomended)&#xA;su</description>
+    </item>
+    <item>
+      <title>LiteGapps System Installation</title>
+      <link>http://localhost:1313/doc/system-installation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/system-installation.html</guid>
+      <description>Introduction LiteGapps has three installation methods, namely [MAGISK],[RECOVERY],[AUTO] or it can also be called MRA. With MRA you can install Litegapps as systemless or non-systemless, and you can also install it on RECOVERY,MAGIK MANAGER,FKM Flasher or other installation sites.&#xA;[MAGISK] [MAGISK] uses default installer from magisk, this is only in systemless mode of course you have to install magisk&#xA;Install&#xA;• you can directly install in magisk manager/recovery or other installer places</description>
+    </item>
+    <item>
+      <title>LiteGapps Vs LiteGapps&#43;&#43;</title>
+      <link>http://localhost:1313/doc/litegapps_vs_litegapps&#43;&#43;.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/litegapps_vs_litegapps&#43;&#43;.html</guid>
+      <description>List LiteGapps LiteGapps++ Based Gapps Google Pixel,OpenGapps Google Pixel,Android Gsi,OpenGapps,Apkpure Systemless Support Support Varian 8 variant Reguler,LTS,MicroG Non Systemless Support Support System Installation hybrid hybrid Architecure Support arm,arm64,x86,x86_64 arm,arm64(one package flashable) Android Support Support 5.0 to 13.0 5.0 to 13.0 (one package flashable) Size 43 MB + 60 MB + Target only targeted specifically cross system Installer kopi installer,magisk installer kopi installer,magisk installer Uninstaller Support Support LiteGapps Controller Support Support First Release 12-07-2020 14-07-2020 Notes • Litegapps++ is intended for users who frequently change Android versions or devices.</description>
+    </item>
+    <item>
+      <title>Long Terms Support (LTS)</title>
+      <link>http://localhost:1313/doc/lts.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/lts.html</guid>
+      <description>Long Term Support (LTS) Long Term Support (LTS) is a litegapps version which is maintained for a longer period of time than the standard edition (non lts).&#xA;Excess • Flashable ZIP support at least 2 years more&#xA;• Using Gms and PlayStore prebuilt&#xA;• Stable&#xA;deficiency • Rarely updated&#xA;• Using Gms And PlayStore old version&#xA;• Bigger size Non Long Term Support (LTS) Excess • Updated frequently&#xA;• Using Gms and PlayStore latest version</description>
+    </item>
+    <item>
+      <title>Report Bug</title>
+      <link>http://localhost:1313/doc/report_bug.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/report_bug.html</guid>
+      <description>So that we know clearly what your problem is, there are several ways to report your problem.&#xA;Send log LiteGapps logs during install mode&#xA;1. First open file manager&#xA;2. Go to the directory /sdcard/Android/litegapps&#xA;3. You will find a file named with the prefix [LOG]litegappps_version.tar.gz example [LOG]litegappps_v2.5.tar.gz&#xA;4. It is log from litegapps which contains your device information and installation process&#xA;5. Send log in Telegram or Github</description>
+    </item>
+    <item>
+      <title>Uninstall</title>
+      <link>http://localhost:1313/doc/uninstall.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/uninstall.html</guid>
+      <description>All of our products including LiteGapps, LiteGapps++, Addon, Litegapps remover and Litegapps controller have install and uninstall features in one package, so you don&amp;rsquo;t need to prepare an add-on uninstaller.&#xA;This page contains all product uninstall instructions from Litegapps, make sure to follow the steps correctly.&#xA;Uninstall [MAGISK] Mode To uninstall in MAGISK mode, you can directly delete it from the Magisk module.&#xA;Uninstall [RECOVERY] Mode Install 1X = Means doing installation mode.</description>
+    </item>
+    <item>
+      <title>Variant LiteGapps</title>
+      <link>http://localhost:1313/doc/litegapps_variant.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doc/litegapps_variant.html</guid>
+      <description>You provide 8 variants to suit user needs, so please choose a variant according to your needs and device specifications.&#xA;Pixel [AUTO]LiteGapps_Pixel_arm64_12.0_v3.0_official.zip Size = 1.2 GB&#xA;Description : LiteGapps Pixel is a complete package of Google apps ported directly from Google Pixel. You will get Google Apps on Google Pixel and their features, but they are large in size.&#xA;Core Android Migrate Carrier Services Carrier Setup Common Config Updater Google Play Services Google Backup Transport Google Calendar Sync Adapter Google Contacts Sync Adapter Google ExtServices Google ExtShared Google Feedback Google One Time Initializer Google Partner Setup Google Restore Google Services Framework Google Play Store Setup Wizard Gapps Android Auto Arcore Chrome Desk Clock Google Device Policy Dream Liner Drive Files Gmail Google Assistant Google Calculator Google Calendar Google Contacts Google Dialer Google Keyboard Google Pixel Wallpaper Google TTS Google Vr Core Google Web View Keep Location History Maps Markup Google Messaging Photos Pixel Launcher Pixel Live Wallpaper Play Games Recorder Sound Picker Sribe Talkback Turbo Tycho Google Search Videos Wallpaper Picker Wellbeing Youtube Youtube Music Micro [AUTO]LiteGapps_Micro_arm64_12.</description>
+    </item>
+  </channel>
+</rss>
